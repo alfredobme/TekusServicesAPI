@@ -47,3 +47,7 @@ Los endpoints protegidos utilizan el atributo **[Authorize]**
 - Al ejecutar la aplicación se ejecuta la migracion "InitialTables" la cual crea la base de datos con sus 
   respectivas tablas.
 - También se crean datos de ejemplos en las tablas Providers, ProviderCustomFields, Services y Users
+
+<img width="770" height="640" alt="image" src="https://github.com/user-attachments/assets/d903b40d-4727-412a-8120-1651a5509b66" />
+
+
